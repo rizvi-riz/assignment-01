@@ -164,26 +164,91 @@ nav ul li a{
     display: flex;
     justify-content: space-around;
 }
-.users{
-    text-align: center;
+.join{
+    color: #4E47FF;
 }
 
 
-.users{
-    background-color: #d9d8f5;
-    
-}
 .thousand{
     font-size: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .users{
+    text-align: center;
     padding: 40px;
-    /* margin: -30px; */
+    background-color: #dad9ff;
     border-radius: 15px;
 }
 
 .join-descriptin{
     margin-top: -20px;
+}
+
+.wc-big{
+    text-align: center;   
+    font-size: 30px;
+}
+
+.wc{
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.Get-Started-Free{
+    background-color: #4E47FF;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid black;   
+}
+
+.pic-idit{
+    border-radius: 20px;
+}
+
+
+footer{
+    padding: 130px;
+    display: flex;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+
+footer input[ type = "text"], .touch, footer input[type = "email"],footer textarea {
+    height: 40px;
+    border-radius: 5px;
+    display: block;
+    width: 100%; 
+    padding: 10px;
+    margin: 24px;
+    border: 2px solid black;
+}
+
+.name{
+    margin-left: 10px;
+}
+footer{
+    background-color: #e9e8ff;
+    margin-top: 95px;
+    border-radius: 20px;
+}
+.touch{
+    margin-right: 20px;
+}
+
+.touch{
+      background-color: #4E47FF;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid black; 
+    align-items: center;
+    margin-left: 20px;
 }
