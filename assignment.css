@@ -1,0 +1,189 @@
+/* header style */
+
+
+nav ul li {
+    list-style: none;
+    margin-left: 35px;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 95px;
+}
+
+.ul{
+    display: flex;
+}
+
+.h-3{
+    color: #4E47FF;
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ul{
+    font-size: 22px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.logo{
+    font-size: 20px;
+    background-color: #4E47FF;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+/* header{
+    background-image: url(Hero-bg.png);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px
+    
+} */
+
+/* .header-section{
+    background-image: url(Hero-bg.png);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px
+    
+    
+} */
+ header{
+    background-image: url(Hero-bg.png);
+    margin: 0px;
+ }
+/* .main{
+    font-size: 20px;
+    margin: 50px;
+    
+} */
+
+.butt{
+    background-color: #4E47FF;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid black;
+    margin-bottom: 60px
+}
+
+.butt{
+    align-items: center;
+}
+
+.butt{
+    margin-top: 20px;
+}
+
+.div-title{
+   margin-left: 96px;
+   
+}
+
+.tool{
+    font-size: 30px;
+}
+.header{
+    align-items: center;
+}
+
+/* main section */
+
+.section-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 200px; 
+}
+
+/* .section-1{
+    margin: 100px;
+} */
+
+.mai-n{
+    font-size: 25px;
+    margin-left: 60px;
+    margin-left: -50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-section-pic{
+    height: 200px;
+    width: 250px;
+    border-radius: 20px;
+}
+
+.Launch-Live-Preview{
+    background-color: #4E47FF;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+
+
+/* rating section */
+
+/* .users{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 100px;
+} */
+
+
+
+.title{
+    font-size: 100px;
+}
+/* .users{
+    
+    padding:  150px;
+} */
+/* 
+.users{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} */
+
+.joined-users{
+    display: flex;
+    justify-content: space-around;
+}
+.users{
+    text-align: center;
+}
+
+
+.users{
+    background-color: #d9d8f5;
+    
+}
+.thousand{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.users{
+    padding: 40px;
+    /* margin: -30px; */
+    border-radius: 15px;
+}
+
+.join-descriptin{
+    margin-top: -20px;
+}
