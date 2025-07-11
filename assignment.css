@@ -20,7 +20,14 @@ nav ul li a{
 .header-problem{
     margin-top: 0px;
     padding: 30px;
-    /* align-items: center; */
+    align-items: center;
+}
+
+.div-title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
 .ul{
     display: flex;
@@ -295,5 +302,10 @@ ul li{
     padding: 10px 15px;   
     font-size: 100px;
     margin-bottom: 0px;
+    padding: 50px;
 }
 
+
+ul li a{
+    color: black;
+}
